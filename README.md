@@ -1,6 +1,6 @@
 # About me
 ![my logo lol](img/img.png)
-## (its not a girl, it looks like but i drew it like that)
+## (its not a girl, it looks like but i drew it like that (also i dont know how to draw lol))
 
 
 Hi, im n4c, or also known as Frux or Dakigex by many
