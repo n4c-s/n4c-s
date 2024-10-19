@@ -1,13 +1,11 @@
-# About me
-![my logo lol](img/img.png)
-## (its not a girl, it looks like but i drew it like that (also i dont know how to draw lol))
+# about me
+im n4c, i like to code programs and make websites, thats about it i think
 
-
-Hi, im n4c, or also known as Frux or Dakigex by many
-I like to just make games and mods
-My favorite language is java and i'd like to learn Haxe (yeah, i mod fnf)
-I work on natunatic (not a big enterprise, but we a team)
-you can contact me on my discord n4c._
-im working on the introverse mod for fnf
-
-fun fact: i have this rare condition called "atopic dermatitis", that can be deadly but i dont care "that much" about it
+# what i like to do
+- code programs in c# (im new to that language)
+- code programs in c++/c
+- make games (currently on (**BounceRing**)[https://natunatic.xyz/projects])
+- make websites (currently making the (Natunatic Website)[https://natunatic.xyz]
+- code programs on python
+- make random things
+- idk
